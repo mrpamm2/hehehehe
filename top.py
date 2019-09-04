@@ -1,7 +1,7 @@
 # __author__ = 'Preston Miller & Chapin Bryce'
 __version__ = '20150822'
 __date__ = '0.01'
-#!/usr/bin/python2
+
 import urllib
 import ast
 class IPtoGeo(object):
@@ -33,3 +33,5 @@ if __name__ == '__main__':
     ip2 = IPtoGeo('12.215.42.19')
     print(ip1.__dict__)
     print(ip2.__dict__)
+
+import urliib3
